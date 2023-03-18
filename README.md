@@ -1,4 +1,6 @@
 # hello-world
 
-## section1
+## Header 2
 here are *italics* and **bold**
+
+### Header 3
